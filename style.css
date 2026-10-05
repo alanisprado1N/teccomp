@@ -6,8 +6,6 @@
   --cor-texto: #F8F8F2;
 }
 
-}
-
 body {
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
